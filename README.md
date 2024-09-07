@@ -3,4 +3,5 @@ In this repository, I will be uploading my textbook and readings notes for [MAT2
 
 | Week | Sections Covered |
 |-------------|----------------|
-| Sept 2 - 6 | Chapters 13.5, 13.6, 15.1; Lecture 0 (extracted) |
+| Week 1 (Sept 2 - 6) | Vectors, Lines, Planes, Surfaces, Other Coordinates, Graphing |
+| Week 2 | Limits, Continuity, Partial Derivatives, Differentiability |
