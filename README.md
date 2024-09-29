@@ -7,3 +7,4 @@ In this repository, I will be uploading my textbook and readings notes for [MAT2
 | Week 2 (Sept 9 - 13) | Limits, Continuity, Partial Derivatives, Differentiability |
 | Week 3 (Sept 16 - 20) | Chain Rule, Directional Derivative and Gradient, Tangential Plane and Linear Approximation to Curved Surfaces |
 | Week 4 (Sept 23 - 27) | Small Signal Modelling, Double Integrals over Rectangular Regions, Double Integrals over General Regions | 
+| Week 5 (Sept 30 - Oct 4) | Triple Integrals, Change of Variables for 2 and 3 Variables, Strategies for Determining Change of Variables (Double Integrals) |
