@@ -11,3 +11,4 @@ In this repository, I will be uploading my textbook and readings notes for [MAT2
 | Week 6 (Oct 7 - 11) | Double Integrals in Polar Coordinates, Triple Integrals in Cylindrical Coordinates, Triple Integrals in Spherical Coordinates |
 | Week 7 (Oct 14 - Oct 18) | Line Integrals of Scalar Functions, Surface Integrals |
 | Week 8 (Oct 21 - 25) | Surface Integrals, Circulation and Flux, Curl and Divergence of a Vector Field, Vector Identities, Helmholtz Theorem, Divergence Theorem, Stokes' Theorem |
+| Week 9 (Nov 4 - 8) | Divergence Theorem (Tooling Example), Stokes' Theorem (Tooling Example), Computing the Field F if the Divergence and Curl of the Vector Field F are Given |
